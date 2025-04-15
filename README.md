@@ -1,6 +1,6 @@
 <!-- <h2 align="center">I am Md Tausif. Currently pursuing B.TECH in CSE at Technocrats Institue of Technology & Science.</h2></p> -->
   
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=435&lines=Im+Anish+Biswas+" alt="" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com/demo/?lines=Hi%2C+I+am+Md+Tausif" alt="" /></a>
 
 ## 💫 About Me:
 
